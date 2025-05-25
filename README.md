@@ -1,1 +1,2 @@
-# Assignment3_chess
+# Assignment 3 - Introduction to Artificial of Intelligence
+Đây là bài tập lớn số 3 môn học Nhập môn trí tuệ nhân tạo học kỳ 242 của nhóm thành viên Quang Nghĩa, Yến Nhi, Trường Thống, Quang Nguyên do thầy Vương Bá Thịnh phụ trách giảng dạy. Bài tập lớn số 3 yêu cầu ứng dụng Machine Learning trong việc tạo ra AI để chơi cờ vua. Trong phạm vi bài tập lớn, nhóm sử dụng 2 mô hình là Monte Carlo Search Tree và Reinforcement Learning.
